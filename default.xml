@@ -25,7 +25,6 @@
   <project path="device/common" name="device/common" />
   <project path="device/lge/mako" name="device/lge/mako" groups="device,mako" />
   <project path="device/lge/mako-kernel" name="InceptionProject/device_mako-kernel" groups="device,mako" remote="github" revision="4.4.4" />
-  <project path="kernel/lge/mako" name="InceptionProject/mako_kernel" remote="github" revision="4.4.4" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
